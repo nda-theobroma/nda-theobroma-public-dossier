@@ -12,7 +12,13 @@ The pilot phase focuses on the cocoa value chain.
 
 This repository serves as a public structural reference and documentation layer.  
 It does not expose production infrastructure or confidential data.
+---
 
+## Public Documentation
+
+High-level structural documentation is available in the `/docs` directory.
+
+This includes governance positioning and institutional reference notes.
 ---
 
 ## What This Project Is
